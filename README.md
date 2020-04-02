@@ -1,0 +1,2 @@
+# Movie-Revenue-Prediction
+A regression model is built to predict the box office revenue of a movie. The model could be used by the production studio to estimate the profitability of a movie project before green lighting it. The  movie revenue dataset is sourced from IMDB. The notebook file consists of the code to clean the data, visualize the data, select/ train the model and check the model predictions
